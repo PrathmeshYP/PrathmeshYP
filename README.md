@@ -15,6 +15,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PrathmeshYP&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🛠️ Projects :
+
+📄 Infralink (SIH 2024 Project)
+Developed a platform to predict and resolve conflicts in government construction projects using machine learning for proactive risk mitigation Handled the core backend unit using Node.js + Express to connect the ML prediction Service, data scraping Service, and frontend interface. Designed REST APIs, managed inter-service communication, and implemented the main conflict detection logic based on coordinate conflicts and data from various sources
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
