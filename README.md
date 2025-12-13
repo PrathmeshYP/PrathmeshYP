@@ -21,6 +21,10 @@
 
 Developed a platform to predict and resolve conflicts in government construction projects using machine learning for proactive risk mitigation Handled the core backend unit using Node.js + Express to connect the ML prediction Service, data scraping Service, and frontend interface. Designed REST APIs, managed inter-service communication, and implemented the main conflict detection logic based on coordinate conflicts and data from various sources
 
+📄 KisanSmart-Irrigation :
+
+This project is a Smart Irrigation System designed to optimize water usage for agriculture or gardening. The system monitors soil moisture, temperature, and humidity, and automatically controls a water pump to irrigate plants only when necessary. This ensures efficient water usage and promotes healthy plant growth.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
