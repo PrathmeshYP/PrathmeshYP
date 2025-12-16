@@ -27,7 +27,7 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 
 📄 Dairy Management System :
 
-This project is a Python-based Dairy Management System developed as a SAM Mini Project. It is designed to manage basic dairy operations such as milk receipt entry, report generation, and database connectivity in a simple and efficient way. The project is suitable for academic and learning purposes and follows a modular programming approach.
+This project is a Python-based Dairy Management System developed as a Mini Project. It is designed to manage basic dairy operations such as milk receipt entry, report generation, and database connectivity in a simple and efficient way. The project is suitable for academic and learning purposes and follows a modular programming approach.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
