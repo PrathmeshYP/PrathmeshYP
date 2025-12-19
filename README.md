@@ -29,6 +29,8 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 
 This project is a Python-based Dairy Management System developed as a Mini Project. It is designed to manage basic dairy operations such as milk receipt entry, report generation, and database connectivity in a simple and efficient way. The project is suitable for academic and learning purposes and follows a modular programming approach.
 
+📄 Designing of EV Battery Monitoring System :
+
 Designed a low-cost EV Battery Monitoring System using Arduino to track voltage, current, temperature, SOC, and SOH in real time.
 Implemented sensor-based fault detection to enhance battery safety and reliability.
 Validated system accuracy through experimental testing on different EV battery types.
