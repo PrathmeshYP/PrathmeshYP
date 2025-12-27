@@ -36,12 +36,11 @@ Implemented sensor-based fault detection to enhance battery safety and reliabili
 Validated system accuracy through experimental testing on different EV battery types.
 Developed a scalable and practical alternative to complex commercial BMS solutions.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📄 Dairy Management System :
 
-<!--
-**PrathmeshYP/PrathmeshYP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project is a Python-based Dairy Management System developed as a SAM Mini Project. It is designed to manage basic dairy operations such as milk receipt entry, report generation, and database connectivity in a simple and efficient way. The project is suitable for academic and learning purposes and follows a modular programming approach.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
