@@ -40,3 +40,8 @@ Developed a scalable and practical alternative to complex commercial BMS solutio
 
 This project is a Python-based Dairy Management System developed as a SAM Mini Project. It is designed to manage basic dairy operations such as milk receipt entry, report generation, and database connectivity in a simple and efficient way. The project is suitable for academic and learning purposes and follows a modular programming approach.
 
+📄 Inventory Management System :
+This project demonstrates practical implementation of Python with a real-world inventory use case.
+It focuses on clean modular architecture, database persistence, and user-friendly GUI design.
+The system ensures accurate stock tracking with reliable SQLite integration.
+Designed to be scalable, maintainable, and suitable for small to medium businesses.
