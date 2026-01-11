@@ -36,9 +36,6 @@ Implemented sensor-based fault detection to enhance battery safety and reliabili
 Validated system accuracy through experimental testing on different EV battery types.
 Developed a scalable and practical alternative to complex commercial BMS solutions.
 
-📄 Dairy Management System :
-
-
 
 📄 Inventory Management System :
 
