@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python desktop applications using Tkinter and SQLite  <br>👯 I’m looking to collaborate on beginner-friendly Python and open-source projects  <br>🤝 I’m looking for help with advanced Python and database optimization  <br>🌱 I’m currently learning C++, SQL, and better software architecture  <br>💬 Ask me about Python basics, GUI development, and student coding projects  <br>⚡ Fun fact: I love converting real-life ideas into working software tools!<br>
+🔭 I’m currently working on Python desktop applications using Tkinter and SQLite  <br>👯 I’m looking to collaborate on beginner-friendly Python and open-source projects  <br>🤝 I’m looking for help with advanced Python and database optimization  <br>🌱 I’m currently learning C++, SQL, and better software architecture  <br>💬 Ask me about Python basics, GUI development, and student coding projects  <br>⚡ Fun fact: I love converting real-life ideas into working software tools<br>
 
 
 ## 🌐 Socials:
